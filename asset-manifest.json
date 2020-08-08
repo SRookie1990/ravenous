@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SRookie1990/ravenous/static/css/main.6a7e4083.chunk.css",
+    "main.js": "/SRookie1990/ravenous/static/js/main.32553cdc.chunk.js",
+    "main.js.map": "/SRookie1990/ravenous/static/js/main.32553cdc.chunk.js.map",
+    "runtime-main.js": "/SRookie1990/ravenous/static/js/runtime-main.fd2b0a6d.js",
+    "runtime-main.js.map": "/SRookie1990/ravenous/static/js/runtime-main.fd2b0a6d.js.map",
+    "static/js/2.99d41395.chunk.js": "/SRookie1990/ravenous/static/js/2.99d41395.chunk.js",
+    "static/js/2.99d41395.chunk.js.map": "/SRookie1990/ravenous/static/js/2.99d41395.chunk.js.map",
+    "index.html": "/SRookie1990/ravenous/index.html",
+    "precache-manifest.c2fc3243eabb91a4c7637fe665af2b9d.js": "/SRookie1990/ravenous/precache-manifest.c2fc3243eabb91a4c7637fe665af2b9d.js",
+    "service-worker.js": "/SRookie1990/ravenous/service-worker.js",
+    "static/css/main.6a7e4083.chunk.css.map": "/SRookie1990/ravenous/static/css/main.6a7e4083.chunk.css.map",
+    "static/js/2.99d41395.chunk.js.LICENSE.txt": "/SRookie1990/ravenous/static/js/2.99d41395.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/SRookie1990/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd2b0a6d.js",
+    "static/js/2.99d41395.chunk.js",
+    "static/css/main.6a7e4083.chunk.css",
+    "static/js/main.32553cdc.chunk.js"
+  ]
+}
